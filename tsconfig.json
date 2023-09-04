@@ -20,6 +20,8 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
 
+
+    //解決import error
     "baseUrl": "./",
     "paths": {
       "@/*": ["./src/*"],
